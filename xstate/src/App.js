@@ -72,7 +72,7 @@ const LocationSelector = () => {
         ))}
       </select>
       {selectedCity && (
-        <p>You Selected  {selectedCountry}, {selectedState},{selectedCity}</p>
+        <p>You selected {selectedCity},{selectedState},{selectedCountry</p>
       )}
     </div>
   );
